@@ -3,13 +3,34 @@ body{
 }
 
 .tabela{
-    width: 50%; 
-    margin: auto; 
+    width: 43%; 
+    margin-left: 25%; 
     padding: auto; 
     border-color: black; 
     text-align: center;
+    font-size: auto;
 }
 
-img{
-    width: 300px;
+#img1{
+    width: 100%;
+   
+
+}
+#div-img1{
+    width: 25%;
+    margin-right: 5%;
+    padding: auto;
+    float: right;
+}
+
+div{
+    border: 2px solid green;
+}
+
+#div-fatos-secao1{
+    width: 43%;
+    margin: auto;
+    padding-right: 7%;
+    text-align: justify;
+    text-indent: 30px;
 }
