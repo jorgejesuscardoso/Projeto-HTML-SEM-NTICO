@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(177, 190, 175) ;
+}
+
+.tabela{
+    width: 50%; 
+    margin: auto; 
+    padding: auto; 
+    border-color: black; 
+    text-align: center;
+}
