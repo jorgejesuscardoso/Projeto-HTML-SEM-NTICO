@@ -16,7 +16,7 @@ a:hover{
     color: blue;
 }
 
-li#NAV{
+li.NAV{
   
     display: inline-block;
     width: 20%;
@@ -59,7 +59,7 @@ font-style: none;
 
 .tabela{
     width: 35%; 
-    margin-left: 29%; 
+    margin-left: 30%; 
     padding: auto; 
     border-color: black; 
     text-align: center;
