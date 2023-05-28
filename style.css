@@ -97,3 +97,14 @@ div{
     text-align: justify;
     text-indent: 30px;
 }
+
+#lateral{
+
+    width: 19.9%;
+    float:left;
+    position: absolute;
+    margin-top: 15.5%;
+    font-size: 1.01em;
+    text-align: center;
+    
+}
