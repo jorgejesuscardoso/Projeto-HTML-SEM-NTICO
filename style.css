@@ -2,6 +2,49 @@ body{
     background-color:rgb(177, 190, 175) ;
 }
 
+header{
+    text-align: center;
+    font-size: x-large;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: azure;
+    color: blue;
+}
+
+li#NAV{
+  
+    display: inline-block;
+    width: 20%;
+    font-size: 1.27em;    
+}
+
+
+#ul-nav{
+    
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+#div-nav{
+    background-color: rgb(134, 137, 139);
+    height: 10%;
+    position: flex;
+}
+
+nav{
+font-style: none;
+
+}
+
 .tabela{
     width: 43%; 
     margin-left: 25%; 
