@@ -23,6 +23,18 @@ li#NAV{
     font-size: 1.27em;    
 }
 
+h2{
+    text-align: center;
+}
+
+h2:hover{
+    color: blue;
+}
+
+h3{
+    text-align: center;
+    clear: both;
+}
 
 #ul-nav{
     
@@ -54,23 +66,31 @@ font-style: none;
     font-size: auto;
 }
 
-#img1{
+.img{
     width: 100%;
    
 
 }
-#div-img1{
+.div-img1{
     width: 25%;
     margin-right: 5%;
     padding: auto;
     float: right;
 }
 
+.div-img2{
+    width: 20%;
+    margin-right: 5%;
+    padding: auto;
+    float: left;
+}
+
+
 div{
     border: 2px solid green;
 }
 
-#div-fatos-secao1{
+.div-secao{
     width: 43%;
     margin: auto;
     padding-right: 7%;
