@@ -58,8 +58,8 @@ font-style: none;
 }
 
 .tabela{
-    width: 43%; 
-    margin-left: 25%; 
+    width: 35%; 
+    margin-left: 29%; 
     padding: auto; 
     border-color: black; 
     text-align: center;
@@ -91,7 +91,7 @@ div{
 }
 
 .div-secao{
-    width: 43%;
+    width: 35%;
     margin: auto;
     padding-right: 7%;
     text-align: justify;
