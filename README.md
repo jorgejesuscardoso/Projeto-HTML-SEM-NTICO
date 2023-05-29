@@ -1,4 +1,12 @@
-# :construction: README em construção ! :construction:
+# :construction: Projeto HTML semântico ! :construction:
+
+Projeto desenvolvido durate as aulas na trybe. Esse foi um projeto proposto para 
+medir o quanto do assunto passado durante as aulas foram absorvido.
+
+Créditos:
+
+Os arquivos .editorconfig, .gitinore e .stylelintrc.json foram criados pela trybe.
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
