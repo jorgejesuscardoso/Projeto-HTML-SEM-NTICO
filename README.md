@@ -3,7 +3,8 @@
 Projeto desenvolvido durate as aulas na trybe. Esse foi um projeto proposto para 
 medir o quanto do assunto passado durante as aulas foram absorvido.
 
-Créditos:
+
+# Créditos:
 
 Os arquivos .editorconfig, .gitinore e .stylelintrc.json foram criados pela trybe.
 
